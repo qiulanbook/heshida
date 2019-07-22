@@ -1,0 +1,113 @@
+.tec{
+    height: 638px;
+}
+.tec_b{
+    height: 394px;
+    padding-top: 32px;
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: space-around;
+
+}
+.tec_b_l{
+    width: 562px;
+    height: 361px;
+}
+.tec_b_l img{
+    width: 100%;
+    height: 100%;
+}
+.tec_b_r{
+    width: 510px;
+    height: 361px;
+
+}
+.tec_b_r p{
+    height: 105px;
+    line-height: 105px;
+    text-align: center;
+    color: #0F0F0F;
+    font-size: 24px;
+}
+.tec_b_r ul{
+    height: 255px;
+}
+.tec_b_r ul li{
+    padding-left: 33px;
+    font-size: 14px;
+    color: #0F0F0F;
+    line-height: 38px;
+    background: url(../img/xing.jpg) no-repeat left center;
+
+}
+.tec_t{
+    height: 133px;
+    padding-top: 79px;
+    font-size: 34px;
+    font-weight: 500;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tec_t_in{
+	height: 78px;
+	line-height: 78px;
+	position: relative;
+}
+.tec_t_in:after{
+    content: '';
+    width: 50%;
+    height: 2px;
+    background: #AEAEAE;
+    position: absolute;
+    top: 0;
+    left: -30%;
+
+}
+.tec_t_in:before{
+    content: '';
+    width: 50%;
+    height: 2px;
+    background: #AEAEAE;
+    position: absolute;
+    bottom:0;
+    left:70%;
+}
+/* 核心技术 */
+.key{
+    height: 832px;
+}
+.key_b{
+    height: 582px;
+}
+.key_b_r{
+    width: 577px;
+    height: 540px;
+}
+.key_b_r img{
+    width: 100%;
+    height: 100%;
+}
+.key_b_l{
+    width: 539px;
+    height: 540px;
+}
+.key_b_l li{
+    height: 197px;
+}
+.key_b_l li:first-child{
+    margin-top: 104px;
+}
+.key_b_l h5{
+    font-size: 26px;
+    padding-left: 50px;
+    margin-bottom: 16px;
+    color: #01010F;
+    background: url(../img/tj.jpg) no-repeat left center;
+   
+}
+.key_b_l p{
+    color: #0F0F0F;
+    font-size: 14px;
+    line-height: 30px;
+}

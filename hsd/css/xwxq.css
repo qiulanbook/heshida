@@ -1,0 +1,120 @@
+.big{
+	height: 1404px;
+	width: 100%;
+	padding-top: 30px;
+	
+}
+.small{
+	width: 1168px;
+	height: 1434px;
+	border: 0px black solid;
+	margin: 0px auto;
+}
+.tuq{
+	float: left;
+	margin-top: 3px;
+	
+}
+.tuw{
+	float: left;
+	margin-left: 13px;
+}
+.wz{
+	height: 17px;
+	color: black;
+	text-decoration: none;
+}
+.title{
+	padding-top: 50px;
+	width: 566px;
+	height: 23px;
+	margin: 0px auto;
+	/*border: 1px black solid;*/
+	font-size: 23px;
+}
+.read{
+	padding-top: 23px;
+	width: 300px;
+	height: 15px;
+	margin: 0px auto;
+	/*border: 1px black solid;*/
+    font-size: 13px;
+}
+.wenzi{
+	padding-top: 46px;
+	text-indent: 2em;
+	line-height: 30px;
+	font-size: 14px;
+}
+*{
+	 margin:0px;
+     padding:0px;
+}
+.erw{
+	/*margin-top: 16px;*/
+}
+.picture{
+	margin-top: 58px;
+	width: 814px;
+	height: 558px;
+}
+.pb{
+	line-height: 30px;
+	font-size: 14px;
+	text-indent: 2em;
+	margin-top: 70px;
+}
+.nihao{
+	font-size: 14px;
+	text-indent: 2em;
+	
+	margin-top: 47px;
+}
+.share{
+	width: 288px;
+	height: 35px;
+	
+	margin-top: 80px;
+	float: left;
+}
+.fx{
+	font-size: 14px;
+	line-height: 40px;
+	width: 35px;
+	float: left;
+}
+.tj{
+	float: left;
+	margin-left: 7px;
+}
+.print{
+	width: 71px;
+	height: 29px;
+	border: 1px #EEEEEE solid;
+	float: left;
+	margin-top: 80px;
+	margin-left: 710px;
+}
+.screen{
+	width: 71px;
+	height: 29px;
+	border: 1px #EEEEEE solid;
+	float: right;
+	margin-top: 80px;
+}
+.xianshi{
+	font-size: 13px;
+	line-height: 29px;
+	
+}
+.screen{
+	font-size: 13px;
+}
+/*.active {
+	background-color: red;
+	color: #fff;
+}*/
+a{
+	color: black;
+	text-decoration:none;
+}

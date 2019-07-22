@@ -1,0 +1,45 @@
+.content_b ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 24px;
+
+}
+.content_b li{
+    width: 275px;
+    height: 236px;
+    position: relative;
+    cursor: default;
+}
+.content_b li img{
+    width: 100%;
+    height: 100%;
+}
+.content_b li p{
+    height: 52px;
+    width: 100%;
+    line-height: 52px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #040404;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: .35s;
+}
+.content_b li:hover p{
+    opacity: 1;
+}
+.zk{
+    width: 25px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 79px;
+    cursor: pointer;
+}
+.icon-plus-arrow-down{
+    font-size: 25px;
+}

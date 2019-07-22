@@ -1,0 +1,77 @@
+.wrapper {
+	width: 100%;
+	border: 0px black solid;
+	margin: 0px auto;
+	display: block;
+	color: both;
+	height: auto;
+	overflow: hidden;	
+}
+
+.content {
+	display: none;
+	margin-top: 20px;
+	
+}
+/*点击该按钮的时候显示该颜色*/
+.active {
+	background-color: red;
+	color: #fff;
+}
+button {
+	background-color: white;
+	margin-top: 5px;
+	list-style-type: none;
+	width: 125px;
+	height: 40px;
+	font-family: "新宋体";
+	font-size: 18px;
+	border: 1px red solid;
+	border-radius: 20px;
+}
+
+button:first-child {
+	margin-left: 0px;
+}
+.uul li{
+	border: 2px #E5E5E5 solid;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	list-style: none;
+	float: left;
+}
+div .uul li:nth-child(1){
+	margin-left: 100px;
+}
+div .uul li:nth-child(5){
+	margin-left: 100px;
+}
+div .uul li:nth-child(9){
+	margin-left: 100px;
+}
+.uul{
+	width: 100%;
+	height: 100%;
+	list-style: none;
+	 padding-left:0px;
+	 list-style-type:none
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.uul p{
+	border-top: 2px #E5E5E5 solid;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+}
+button{
+	outline: none;
+	cursor: pointer;
+}
+center{
+	margin-bottom: 82px;
+}
+
